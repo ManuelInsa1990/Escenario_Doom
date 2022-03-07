@@ -1234,3 +1234,10 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.03.07-23.11.17:639][834]LogContentValidation: Display: Validating World /Game/Blocking.Blocking
 [2022.03.07-23.11.17:639][834]LogContentValidation: Display: Validating ObjectRedirector /Game/123.123
 [2022.03.07-23.11.20:926][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.03.07-23.13.41:431][171]LogActorFactory: Actor Factory created Cylinder
+[2022.03.07-23.13.41:431][171]LogActorFactory: Actor Factory created Cylinder
+[2022.03.07-23.13.58:066][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blocking" FILE="../../../../../Unreal Engine/Escenario_Doom/Doom/Content/Blocking.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.07-23.13.58:069][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.03.07-23.13.58:078][ 68]LogSavePackage: Moving '../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/BlockingCF741F694039A84BABA79B8E8FB68FFE.tmp' to '../../../../../Unreal Engine/Escenario_Doom/Doom/Content/Blocking.umap'
+[2022.03.07-23.13.58:093][ 68]AssetCheck: New page: Asset Save: Blocking
+[2022.03.07-23.13.58:093][ 68]LogContentValidation: Display: Validating World /Game/Blocking.Blocking

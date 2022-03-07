@@ -1257,3 +1257,4 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.03.07-21.24.31:523][ 77]LogAudioMixer: Resetting audio stream to device id 
 [2022.03.07-21.24.31:530][ 77]LogAudioMixer: Display: 0: FrontLeft
 [2022.03.07-21.24.31:530][ 77]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-21.32.19:620][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms

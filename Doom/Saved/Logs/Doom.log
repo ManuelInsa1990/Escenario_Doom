@@ -980,3 +980,257 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.03.07-21.35.09:663][205]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2022.03.07-21.35.26:400][953]LogSlate: Window 'Inicio de sesión del control del código fuente' being destroyed
 [2022.03.07-21.35.30:796][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.03.07-21.53.58:219][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.03.07-21.53.58:253][696]LogAssetEditorSubsystem: Opening Asset editor for World /Game/123.123
+[2022.03.07-21.53.58:254][696]Cmd: MAP LOAD FILE="../../../../../Unreal Engine/Escenario_Doom/Doom/Content/123.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.07-21.53.58:254][696]LightingResults: New page: Diseñar la iluminación
+[2022.03.07-21.53.58:254][696]LoadErrors: New page: Cargando mapa: 123.umap
+[2022.03.07-21.53.58:292][696]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-21.53.58:292][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-21.53.58:292][696]MapCheck: New page: Revisión del mapa
+[2022.03.07-21.53.58:292][696]LightingResults: New page: Diseñar la iluminación
+[2022.03.07-21.53.58:295][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-21.53.58:297][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.07-21.53.58:297][696]LogAudio: Display: Audio Device (ID: 1) registered with world '123'.
+[2022.03.07-21.53.58:298][696]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.07-21.53.58:298][696]LogAIModule: Creating AISystem for world 123
+[2022.03.07-21.53.58:303][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.07-21.53.58:305][696]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.07-21.53.58:305][696]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,079ms to complete.
+[2022.03.07-21.53.58:305][696]LogFileHelpers: Loading map '123' took 0.051
+[2022.03.07-21.54.23:346][542]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.07-21.55.16:342][813]LogSlate: Window 'Preferencias del editor' being destroyed
+[2022.03.07-21.55.16:346][813]LogSlate: Window 'Preferencias del editor' being destroyed
+[2022.03.07-21.55.21:214][251]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.03.07-21.55.21:250][251]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'No pudo encontrar el color 'NiagaraEditor.AssetColors.EffectType'.'
+[2022.03.07-21.56.21:043][345]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2022.03.07-21.56.21:047][345]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2022.03.07-21.56.25:909][918]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/VolumetricLightmapDensityVolume_16.svg'. File could not be found
+[2022.03.07-21.56.31:720][596]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SceneCaptureCube_16.svg'. File could not be found
+[2022.03.07-21.56.39:580][497]Cmd: DELETE
+[2022.03.07-21.56.39:580][497]Cmd: ACTOR DELETE
+[2022.03.07-21.56.39:581][497]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2022.03.07-21.56.39:593][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.03.07-21.56.39:595][497]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.03.07-21.56.52:909][ 56]Cmd: DELETE
+[2022.03.07-21.56.52:909][ 56]Cmd: ACTOR DELETE
+[2022.03.07-21.56.52:910][ 56]LogEditorActor: Deleted Actor: SkyLight
+[2022.03.07-21.56.52:916][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.07-21.56.52:917][ 56]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.07-21.57.46:503][406]LogActorFactory: Actor Factory created Plane
+[2022.03.07-21.57.46:530][406]LogActorFactory: Actor Factory created Plane
+[2022.03.07-21.57.52:339][ 86]Cmd: TRANSACTION UNDO
+[2022.03.07-21.57.52:339][ 86]LogEditorTransaction: Undo Move Elements
+[2022.03.07-21.57.58:671][798]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.07-21.58.00:420][997]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.07-21.58.06:289][654]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.07-21.58.13:019][423]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.07-21.58.15:171][666]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.07-21.58.28:249][168]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.07-21.59.13:494][431]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.03.07-21.59.50:461][682]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2022.03.07-21.59.50:464][682]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2022.03.07-21.59.58:242][564]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.03.07-22.00.06:967][560]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2022.03.07-22.00.06:970][560]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2022.03.07-22.00.39:924][361]LogSlate: Window 'Preferencias del editor' being destroyed
+[2022.03.07-22.00.39:927][361]LogSlate: Window 'Preferencias del editor' being destroyed
+[2022.03.07-22.00.41:693][555]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-1V1M2HQ
+[2022.03.07-22.00.41:693][555]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="E:/Unreal Engine/Escenario_Doom/Doom/Doom.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal Engine/Escenario_Doom/Doom/Intermediate/TurnkeyReport_1.log" -log="E:/Unreal Engine/Escenario_Doom/Doom/Intermediate/TurnkeyLog_1.log" -project="E:/Unreal Engine/Escenario_Doom/Doom/Doom.uproject"  -Device=Win64@DESKTOP-1V1M2HQ'
+[2022.03.07-22.00.41:693][555]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/UE5/UE_5.0EA/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/Unreal Engine/Escenario_Doom/Doom/Doom.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal Engine/Escenario_Doom/Doom/Intermediate/TurnkeyReport_1.log" -log="E:/Unreal Engine/Escenario_Doom/Doom/Intermediate/TurnkeyLog_1.log" -project="E:/Unreal Engine/Escenario_Doom/Doom/Doom.uproject"  -Device=Win64@DESKTOP-1V1M2HQ" ]
+[2022.03.07-22.00.41:791][560]LogTurnkeySupport: Completed device detection: Code = -2147450749
+[2022.03.07-22.01.45:811][276]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 120.00,-350.00,140.00
+[2022.03.07-22.01.46:639][356]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 200.00,-230.00,-110.00
+[2022.03.07-22.02.04:266][ 86]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.07-22.02.49:559][286]Cmd: TRANSACTION UNDO
+[2022.03.07-22.02.49:559][286]LogEditorTransaction: Undo Change Lens Preset
+[2022.03.07-22.02.49:846][298]Cmd: TRANSACTION UNDO
+[2022.03.07-22.02.49:846][298]LogEditorTransaction: Undo Change Lens Preset
+[2022.03.07-22.02.50:061][307]Cmd: TRANSACTION UNDO
+[2022.03.07-22.02.50:061][307]LogEditorTransaction: Undo Change Lens Preset
+[2022.03.07-22.02.50:282][331]Cmd: TRANSACTION UNDO
+[2022.03.07-22.02.50:282][331]LogEditorTransaction: Undo Change Lens Preset
+[2022.03.07-22.02.50:577][366]Cmd: TRANSACTION UNDO
+[2022.03.07-22.02.50:577][366]LogEditorTransaction: Undo Change Filmback Preset
+[2022.03.07-22.02.51:023][419]Cmd: TRANSACTION UNDO
+[2022.03.07-22.02.51:024][419]LogEditorTransaction: Undo Change Filmback Preset
+[2022.03.07-22.02.51:402][464]Cmd: TRANSACTION UNDO
+[2022.03.07-22.02.51:402][464]LogEditorTransaction: Undo Pinchar en los actores
+[2022.03.07-22.03.15:133][222]Cmd: DELETE
+[2022.03.07-22.03.15:133][222]Cmd: ACTOR DELETE
+[2022.03.07-22.03.15:135][222]LogEditorActor: Deleted Actor: CineCameraActor
+[2022.03.07-22.03.15:153][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.03.07-22.03.15:155][222]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.03.07-22.03.22:879][141]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 140.00,-200.00,250.00
+[2022.03.07-22.03.23:642][222]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 270.00,0.00,0.00
+[2022.03.07-22.04.17:682][730]LogActorFactory: Actor Factory created Cube
+[2022.03.07-22.04.17:682][730]LogActorFactory: Actor Factory created Cube
+[2022.03.07-22.05.21:148][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.03.07-22.05.21:152][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/123" FILE="../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/Autosaves/Game/123_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.03.07-22.05.21:175][139]LogSavePackage: Moving '../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/123_Auto114B76DBF49243850493416AF7824DD2F.tmp' to '../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/Autosaves/Game/123_Auto1.umap'
+[2022.03.07-22.05.21:176][139]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/123' took 0.032
+[2022.03.07-22.05.21:176][139]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2022.03.07-22.06.50:701][ 59]Cmd: DELETE
+[2022.03.07-22.06.50:701][ 59]Cmd: ACTOR DELETE
+[2022.03.07-22.06.50:702][ 59]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.07-22.06.50:705][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.07-22.06.50:707][ 59]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.03.07-22.06.51:336][129]Cmd: DELETE
+[2022.03.07-22.06.51:336][129]Cmd: ACTOR DELETE
+[2022.03.07-22.06.51:337][129]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.07-22.06.51:340][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.03.07-22.06.51:342][129]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.03.07-22.15.21:653][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.07-22.15.21:654][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/123" FILE="../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/Autosaves/Game/123_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.03.07-22.15.21:682][905]LogSavePackage: Moving '../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/123_Auto29E8105054BB4AA0226A97092ECF08101.tmp' to '../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/Autosaves/Game/123_Auto2.umap'
+[2022.03.07-22.15.21:683][905]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/123' took 0.032
+[2022.03.07-22.15.21:683][905]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2022.03.07-22.50.20:647][688]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.07-22.50.32:925][ 32]LogActorFactory: Actor Factory created Plane
+[2022.03.07-22.50.32:926][ 32]LogActorFactory: Actor Factory created Plane
+[2022.03.07-22.50.43:078][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-22.50.43:093][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-22.50.43:094][212]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'No pudo encontrar el color 'InvertedForeground'.'
+[2022.03.07-22.50.43:099][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-22.50.43:102][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-22.50.47:008][654]Cmd: TRANSACTION UNDO
+[2022.03.07-22.50.47:008][654]LogEditorTransaction: Undo Scale Elements
+[2022.03.07-22.50.55:272][557]Cmd: TRANSACTION UNDO
+[2022.03.07-22.50.55:272][557]LogEditorTransaction: Undo Rotate Elements
+[2022.03.07-22.51.10:192][255]Cmd: DELETE
+[2022.03.07-22.51.10:192][255]Cmd: ACTOR DELETE
+[2022.03.07-22.51.10:194][255]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.07-22.51.10:198][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.03.07-22.51.10:201][255]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.07-22.51.12:603][512]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.07-22.51.14:963][752]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.07-22.51.26:803][ 32]LogActorFactory: Actor Factory created Plane
+[2022.03.07-22.51.26:803][ 32]LogActorFactory: Actor Factory created Plane
+[2022.03.07-22.51.50:801][751]Cmd: TRANSACTION UNDO
+[2022.03.07-22.51.50:801][751]LogEditorTransaction: Undo Scale Elements
+[2022.03.07-22.51.51:195][768]Cmd: TRANSACTION UNDO
+[2022.03.07-22.51.51:195][768]LogEditorTransaction: Undo Rotate Elements
+[2022.03.07-22.51.56:511][386]Cmd: TRANSACTION UNDO
+[2022.03.07-22.51.56:511][386]LogEditorTransaction: Undo Move Elements
+[2022.03.07-22.51.59:511][704]Cmd: TRANSACTION UNDO
+[2022.03.07-22.51.59:511][704]LogEditorTransaction: Undo Move Elements
+[2022.03.07-22.52.03:307][116]Cmd: TRANSACTION UNDO
+[2022.03.07-22.52.03:307][116]LogEditorTransaction: Undo Move Elements
+[2022.03.07-22.52.06:944][481]Cmd: TRANSACTION UNDO
+[2022.03.07-22.52.06:945][481]LogEditorTransaction: Undo Move Elements
+[2022.03.07-22.52.08:793][662]Cmd: TRANSACTION UNDO
+[2022.03.07-22.52.08:793][662]LogEditorTransaction: Undo Move Elements
+[2022.03.07-22.52.10:983][921]Cmd: TRANSACTION UNDO
+[2022.03.07-22.52.10:983][921]LogEditorTransaction: Undo Move Elements
+[2022.03.07-22.52.13:133][174]Cmd: TRANSACTION UNDO
+[2022.03.07-22.52.13:133][174]LogEditorTransaction: Undo Move Elements
+[2022.03.07-22.53.11:263][916]Cmd: SELECT NONE
+[2022.03.07-22.53.11:936][996]Cmd: TRANSACTION UNDO
+[2022.03.07-22.53.11:936][996]LogEditorTransaction: Undo No seleccionar ninguno
+[2022.03.07-22.53.12:326][ 12]Cmd: TRANSACTION UNDO
+[2022.03.07-22.53.12:326][ 12]LogEditorTransaction: Undo Rotate Elements
+[2022.03.07-22.53.32:082][341]Cmd: TRANSACTION UNDO
+[2022.03.07-22.53.32:082][341]LogEditorTransaction: Undo Scale Elements
+[2022.03.07-22.53.35:557][702]Cmd: TRANSACTION UNDO
+[2022.03.07-22.53.35:557][702]LogEditorTransaction: Undo Scale Elements
+[2022.03.07-22.53.38:920][ 13]Cmd: TRANSACTION UNDO
+[2022.03.07-22.53.38:920][ 13]LogEditorTransaction: Undo Scale Elements
+[2022.03.07-22.54.44:650][751]LogActorFactory: Actor Factory created Cylinder
+[2022.03.07-22.54.44:650][751]LogActorFactory: Actor Factory created Cylinder
+[2022.03.07-22.55.14:177][ 66]Cmd: DELETE
+[2022.03.07-22.55.14:177][ 66]Cmd: ACTOR DELETE
+[2022.03.07-22.55.14:177][ 66]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.07-22.55.14:182][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.03.07-22.55.14:186][ 66]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.07-22.55.14:606][109]Cmd: DELETE
+[2022.03.07-22.55.14:607][109]Cmd: ACTOR DELETE
+[2022.03.07-22.55.14:608][109]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.07-22.55.14:611][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.03.07-22.55.14:612][109]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.03.07-22.56.27:322][658]Cmd: DELETE
+[2022.03.07-22.56.27:322][658]Cmd: ACTOR DELETE
+[2022.03.07-22.56.27:323][658]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.07-22.56.27:327][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.03.07-22.56.27:329][658]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.07-22.57.27:145][626]Cmd: TRANSACTION UNDO
+[2022.03.07-22.57.27:145][626]LogEditorTransaction: Undo Move Elements
+[2022.03.07-22.58.00:127][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.03.07-22.58.00:131][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/123" FILE="../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/Autosaves/Game/123_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.03.07-22.58.00:135][492]LogSavePackage: Moving '../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/123_Auto3610FC66545DDDA5A79A790B52EAD330B.tmp' to '../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/Autosaves/Game/123_Auto3.umap'
+[2022.03.07-22.58.00:136][492]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/123' took 0.012
+[2022.03.07-22.58.00:136][492]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.012
+[2022.03.07-22.59.51:544][346]Cmd: TRANSACTION UNDO
+[2022.03.07-22.59.51:544][346]LogEditorTransaction: Undo Clicking on Elements
+[2022.03.07-23.00.22:758][854]Cmd: TRANSACTION UNDO
+[2022.03.07-23.00.22:759][854]LogEditorTransaction: Undo Rotate Elements
+[2022.03.07-23.00.36:665][459]Cmd: TRANSACTION UNDO
+[2022.03.07-23.00.36:665][459]LogEditorTransaction: Undo Move Elements
+[2022.03.07-23.00.37:130][472]Cmd: TRANSACTION UNDO
+[2022.03.07-23.00.37:130][472]LogEditorTransaction: Undo Move Elements
+[2022.03.07-23.00.37:501][500]Cmd: TRANSACTION UNDO
+[2022.03.07-23.00.37:501][500]LogEditorTransaction: Undo Rotate Elements
+[2022.03.07-23.00.38:004][560]Cmd: TRANSACTION UNDO
+[2022.03.07-23.00.38:004][560]LogEditorTransaction: Undo Move Elements
+[2022.03.07-23.00.45:532][417]Cmd: TRANSACTION UNDO
+[2022.03.07-23.00.45:532][417]LogEditorTransaction: Undo Move Elements
+[2022.03.07-23.02.04:744][842]LogActorFactory: Actor Factory created Cube
+[2022.03.07-23.02.04:745][842]LogActorFactory: Actor Factory created Cube
+[2022.03.07-23.03.38:980][270]LogEditorViewport: Clicking Background
+[2022.03.07-23.03.38:992][271]LogEditorViewport: Clicking Background
+[2022.03.07-23.03.45:779][ 82]LogEditorViewport: Clicking Background
+[2022.03.07-23.03.46:184][130]LogEditorViewport: Clicking Background
+[2022.03.07-23.03.52:066][831]LogEditorViewport: Clicking Background
+[2022.03.07-23.03.52:460][878]LogEditorViewport: Clicking Background
+[2022.03.07-23.03.52:878][928]LogEditorViewport: Clicking Background
+[2022.03.07-23.03.54:663][139]LogEditorViewport: Clicking Background
+[2022.03.07-23.03.55:149][197]LogEditorViewport: Clicking Background
+[2022.03.07-23.03.55:600][251]LogEditorViewport: Clicking Background
+[2022.03.07-23.03.55:982][297]LogEditorViewport: Clicking Background
+[2022.03.07-23.03.56:896][406]LogEditorViewport: Clicking Background
+[2022.03.07-23.04.08:513][788]LogEditorViewport: Clicking Background
+[2022.03.07-23.04.09:149][864]LogEditorViewport: Clicking Background
+[2022.03.07-23.04.25:585][822]LogEditorViewport: Clicking Background
+[2022.03.07-23.04.25:989][870]LogEditorViewport: Clicking Background
+[2022.03.07-23.04.30:726][433]LogEditorViewport: Clicking Background
+[2022.03.07-23.04.31:363][509]LogEditorViewport: Clicking Background
+[2022.03.07-23.04.34:732][909]LogEditorViewport: Clicking Background
+[2022.03.07-23.05.04:236][333]Cmd: TRANSACTION UNDO
+[2022.03.07-23.05.04:236][333]LogEditorTransaction: Undo Rotate Elements
+[2022.03.07-23.06.52:392][709]Cmd: TRANSACTION UNDO
+[2022.03.07-23.06.52:392][709]LogEditorTransaction: Undo Rotate Elements
+[2022.03.07-23.06.52:629][719]Cmd: TRANSACTION UNDO
+[2022.03.07-23.06.52:629][719]LogEditorTransaction: Undo Move Elements
+[2022.03.07-23.06.52:858][727]Cmd: TRANSACTION UNDO
+[2022.03.07-23.06.52:858][727]LogEditorTransaction: Undo Move Elements
+[2022.03.07-23.06.53:103][751]Cmd: TRANSACTION UNDO
+[2022.03.07-23.06.53:103][751]LogEditorTransaction: Undo Clicking on Elements
+[2022.03.07-23.07.07:661][352]Cmd: TRANSACTION UNDO
+[2022.03.07-23.07.07:661][352]LogEditorTransaction: Undo Move Elements
+[2022.03.07-23.07.08:048][368]Cmd: TRANSACTION UNDO
+[2022.03.07-23.07.08:048][368]LogEditorTransaction: Undo Rotate Elements
+[2022.03.07-23.09.20:365][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.03.07-23.09.20:368][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/123" FILE="../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/Autosaves/Game/123_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.03.07-23.09.20:374][847]LogSavePackage: Moving '../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/123_Auto4DE97255042898A5C914AD9BC8E0BE506.tmp' to '../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/Autosaves/Game/123_Auto4.umap'
+[2022.03.07-23.09.20:374][847]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/123' took 0.013
+[2022.03.07-23.09.20:374][847]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.013
+[2022.03.07-23.10.50:164][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.03.07-23.10.50:284][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/123" FILE="../../../../../Unreal Engine/Escenario_Doom/Doom/Content/123.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.07-23.10.50:286][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.03.07-23.10.50:293][322]LogSavePackage: Moving '../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/12310EECEC7441E1A8A576F649138CAC2BD.tmp' to '../../../../../Unreal Engine/Escenario_Doom/Doom/Content/123.umap'
+[2022.03.07-23.10.50:302][322]LogFileHelpers: Saving map '123' took 0.018
+[2022.03.07-23.10.50:310][322]AssetCheck: New page: Asset Save: 123
+[2022.03.07-23.10.50:310][322]LogContentValidation: Display: Validating World /Game/123.123
+[2022.03.07-23.11.01:354][ 66]LogToolMenus: Warning: Menu section not found: 'ActorControl' for insert: 'LevelInstance'
+[2022.03.07-23.11.04:242][390]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.03.07-23.11.04:242][390]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.03.07-23.11.16:671][834]LogContentBrowser: Attempting asset rename: 123 -> Blocking
+[2022.03.07-23.11.17:173][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blocking" FILE="../../../../../Unreal Engine/Escenario_Doom/Doom/Content/Blocking.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.07-23.11.17:176][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.07-23.11.17:184][834]LogSavePackage: Moving '../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/Blocking5BF3881D46B4464775B459B788C75A28.tmp' to '../../../../../Unreal Engine/Escenario_Doom/Doom/Content/Blocking.umap'
+[2022.03.07-23.11.17:192][834]LogFileHelpers: Saving map 'Blocking' took 0.019
+[2022.03.07-23.11.17:193][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/123" FILE="../../../../../Unreal Engine/Escenario_Doom/Doom/Content/123.umap" SILENT=true
+[2022.03.07-23.11.17:197][834]LogSavePackage: Moving '../../../../../Unreal Engine/Escenario_Doom/Doom/Saved/1230D569B2046198A279CDCCD8159874B1E.tmp' to '../../../../../Unreal Engine/Escenario_Doom/Doom/Content/123.umap'
+[2022.03.07-23.11.17:639][834]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.07-23.11.17:639][834]LogContentValidation: Display: Validating World /Game/Blocking.Blocking
+[2022.03.07-23.11.17:639][834]LogContentValidation: Display: Validating ObjectRedirector /Game/123.123
+[2022.03.07-23.11.20:926][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms

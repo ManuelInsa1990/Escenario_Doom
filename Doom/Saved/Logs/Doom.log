@@ -1242,3 +1242,18 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.03.07-21.14.53:802][883]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
 [2022.03.07-21.14.53:802][883]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
 [2022.03.07-21.15.02:364][834]LogSlate: Window 'Source Control Login' being destroyed
+[2022.03.07-21.18.03:835][371]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.03.07-21.18.03:843][371]LogContentBrowser: Creating deferred item: NewWorld
+[2022.03.07-21.18.05:745][592]LogContentBrowser: Attempting asset rename: NewWorld -> 123
+[2022.03.07-21.18.05:873][592]LogContentBrowser: End creating deferred item NewWorld
+[2022.03.07-21.18.20:491][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.03.07-21.18.20:654][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/123" FILE="C:/Users/Usuario/Documents/GitHub/Escenario_Doom/Doom/Content/123.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.07-21.18.20:671][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.03.07-21.18.20:673][277]LogSavePackage: Moving 'C:/Users/Usuario/Documents/GitHub/Escenario_Doom/Doom/Saved/1233817A9614122328A7E24BC987284CE54.tmp' to 'C:/Users/Usuario/Documents/GitHub/Escenario_Doom/Doom/Content/123.umap'
+[2022.03.07-21.18.20:683][277]LogFileHelpers: Saving map '123' took 0.020
+[2022.03.07-21.18.20:877][277]AssetCheck: New page: Asset Save: 123
+[2022.03.07-21.18.20:877][277]LogContentValidation: Display: Validating World /Game/123.123
+[2022.03.07-21.24.31:523][ 77]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{87835edf-0bf6-4087-83fb-8c1304dcf842}.
+[2022.03.07-21.24.31:523][ 77]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.07-21.24.31:530][ 77]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-21.24.31:530][ 77]LogAudioMixer: Display: 1: FrontRight
